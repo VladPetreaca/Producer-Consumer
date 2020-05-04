@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37c20ff2-3296-413b-bc14-216b65ca6bcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a1veqSFShRpfTpnVlJRMFPurwV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37c20ff2-3296-413b-bc14-216b65ca6bcc" name="Default Changelist" comment="" />
+      <created>1585916013508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585916013508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="155" width="424" height="483" key="FileChooserDialogImpl" timestamp="1585918603435">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="463" y="155" width="424" height="483" key="FileChooserDialogImpl/0.27.1360.741@0.27.1360.741" timestamp="1585918603435" />
+    <state x="336" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585916023781">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="336" y="225" key="com.intellij.ide.util.TipDialog/0.27.1360.741@0.27.1360.741" timestamp="1585916023781" />
+  </component>
+</project>

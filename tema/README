@@ -1,0 +1,22 @@
+-------READMEE-------
+	-------Petreaca Vlad-Florin 336CB------
+
+
+- pentru inceput, mi-am facut strategia de implementare pentru clasa Market: o lista de producatori, una de cumparatori/cosuri de cumparaturi si lungimea "raftului" pentru fiecare producator
+
+-pentru new_cart si register_producer returnez un id dat de lungimea listelor de costuri/producatori. Pe langa asta adaug in liste o alta lista avand ca element id-ul dat 
+
+-pentru publish, verific daca producatorul are loc pentru a mai publica un produs. In clasa products, daca nu este loc sa pun pe raft, astept un timp specificat, iar dupa ce public produsul, se asteapta din nou un timp specificat(de fabricatie)
+
+-pentru fucntia add_to_Cart, verific daca in lista producatorilor se afla produsul cautat. Daca se afla, il scot si il adaug in cosul specificat un tuplu avand primul element id-ul producatorului si al doilea fiind produsul
+
+-pentru functia remove_from_cart, caut elementul in fiecare cos din lista si cand il gasesc, il scot din cos si il adaug pe raftul producatorului care trebuie
+
+-pentru functia place_order returnez din cosuri al doilea element din tupluri fiind produse
+
+-pentru clasa consumer, pentru operatiile din fiecare cos, se face operatia de add sau remove pentru a adauga/elimina produsele in cos
+
+-pentru fiecare cos, se intoarce lista cu produse "achizitionate" si se adauga intr-o alta lista care va fi printata la final
+
+
+Timp de executie pe masina virtuala: 1m29sec
